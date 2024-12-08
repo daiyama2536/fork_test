@@ -1,1 +1,1 @@
-print('forkのテスト')
+print('forkのテスト（パブリック）')
